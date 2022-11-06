@@ -1,8 +1,4 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HappyMana&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMana" />
-</a>
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=HappyMana)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HappyMana)
